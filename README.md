@@ -5,6 +5,12 @@
 - ⚡ I enjoy watching animations, as well as jigsaw puzzles.
 
 ### A List of Languages that I am familar with
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,laravel,php,p" />
+  </a>
+</p>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,laravel,php,p)](https://skillicons.dev)
 
 ### A List of Technologies that I am familar with 
