@@ -2,7 +2,7 @@
 - 👋 Hi there, my name is Kyle Faure, a Front-End Web developer.
 - 🔭 I mostly make use of React.js, currently present in ~65% of my projects.
 - 📫 Always striving to improve my coding practices, and I aim to deliver hassle-free products.
-- ⚡ I enjoy watching animations, as well as jigsaw puzzles.
+- ⚡ I enjoy watching animations, as well as completing jigsaw puzzles.
 
 ### A List of Languages that I am familar with
 <p align="center">
