@@ -1,24 +1,24 @@
 ### Hi there 
 - 👋 Hi there, my name is Kyle Faure, a Front-End Web developer.
-- 🔭 I mostly make use of React.js [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) in ~70% of my projects.
+- 🔭 I mostly make use of React.js in ~70% of my projects.
 - 📫 Always striving to improve my coding practices, and I aim to deliver hassle-free products.
 - ⚡ I enjoy watching animations, as well as jigsaw puzzles.
 
 ### A List of Languages that I am familar with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,laravel,php,p" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,jquery,laravel,php,py" />
   </a>
 </p>
 
 ### A List of Technologies that I am familar with 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postman,anaconda,linux,mysql,nginx" />
+    <img src="https://skillicons.dev/icons?i=docker,postman,anaconda,linux,mysql,nginx,vscode" />
   </a>
 </p>
 
-### My main coding IDE is [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+### My main coding IDE is vscode
 
 <!--
 **MrKkyle/MrKkyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
