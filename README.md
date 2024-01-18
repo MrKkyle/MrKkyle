@@ -1,15 +1,11 @@
 ### Hi there 
-- 👋 Hi there, my name is Kyle Faure, a front-end Web developer.
-- 🔭 I mostly make use of React.js (https://skillicons.dev/icons?i=react)](https://skillicons.dev) in ~70% of my projects.
-- Always striving to improve my coding practices, and I aim to deliver hassle-free products.
+- 👋 Hi there, my name is Kyle Faure, a Front-End Web developer.
+- 🔭 I mostly make use of React.js [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) in ~70% of my projects.
+- 📫 Always striving to improve my coding practices, and I aim to deliver hassle-free products.
 - ⚡ I enjoy watching animations, as well as jigsaw puzzles.
 
 ### A List of Languages that I am familar with
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,laravel,php,py" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,laravel,php,p)](https://skillicons.dev)
 
 ### A List of Technologies that I am familar with 
 <p align="center">
