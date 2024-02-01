@@ -8,7 +8,7 @@
 ### A List of Languages that I am familar with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,jquery,laravel,php,py" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,jquery,electron,laravel,php,py" />
   </a>
 </p>
 
